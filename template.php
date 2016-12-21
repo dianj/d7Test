@@ -77,7 +77,7 @@ function ffw_sub_form_alter(&$form, &$form_state, $form_id) {
 }
 
 function ffw_sub_preprocess_page(&$vars) {
-
+  
 }
 
 function ffw_sub_preprocess_region(&$variables, $hook) {
