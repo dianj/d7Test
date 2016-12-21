@@ -27,6 +27,7 @@ function ffw_sub_preprocess_html(&$vars) {
 /**
  * Alter CSS files before they are output on the page.
  */
+
 function ffw_sub_css_alter(&$css) {
   // Remove Drupal core CSS.
   $exclude = array(
