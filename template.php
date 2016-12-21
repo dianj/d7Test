@@ -67,6 +67,7 @@ function ffw_sub_css_alter(&$css) {
   $css = array_diff_key($css, $exclude);
 }
 
+
 function ffw_sub_form_alter(&$form, &$form_state, $form_id) {
   //changing the search form label and button values
   if ($form_id == 'search_block_form') {
