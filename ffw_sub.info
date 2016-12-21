@@ -1,0 +1,15 @@
+name = ffw_sub
+description = FFW Subtheme
+software requirements. Type "grunt watch" to compile files.
+base theme = ffw
+core = 7.x
+
+regions[header] = Header
+regions[topblack] = Top Black
+regions[top_slider] = Top slider
+regions[highlighted] = Highlighted
+regions[help] = Help
+regions[content] = Content
+regions[sidebar_first] = Sidebar first
+regions[sidebar_second] = Sidebar second
+regions[footer] = Footer

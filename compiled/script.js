@@ -1,0 +1,1 @@
+!function(a,b){console.log("FFW FE theme"),jQuery(document).ready(function(a){a(".expanded").stop(!0,!0).on("mouseenter",function(){a(".expanded .menu").slideDown()}).stop(!0,!0).on("mouseleave",function(){a(".expanded .menu").slideUp()})}),b.true=a}({},function(){return this}());
