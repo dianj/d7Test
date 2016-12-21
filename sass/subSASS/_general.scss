@@ -1,0 +1,42 @@
+/* general sub-theme styling */
+
+.ficon {
+  font-family: "fontello";
+  font-style: normal;
+  font-weight: normal;
+  speak: none;
+  display: inline-block;
+  text-decoration: inherit;
+  text-align: center;
+  opacity: 1;
+  font-variant: normal;
+  text-transform: none;
+  font-size: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-shadow: none;
+}
+
+#page {
+  width: 100%;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+
+
+
+
+
+
+/* main navigation */
+@import '_main_naavigation.scss';
+
+/* Top black area */
+@import '_top_black.scss';
+
+/* Top blue logo area */
+@import '_top_blue.scss';
+
+/* Top slider area */
+@import '_top_slider.scss';

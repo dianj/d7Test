@@ -1,0 +1,29 @@
+/* main navigation */
+.mainnav {
+  background: #00b4e6;
+  height: 70px;
+}
+
+.main-menu {
+  margin: 0 auto;
+  padding: 0;
+  display: table;
+  height: 100%;
+  width: 100%;
+}
+
+.main-menu li {
+  list-style: none;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.main-menu li a {
+  color: #fff;
+  font-weight: bold;
+  font-size: 0.8em;
+  display: block;
+  padding: 10px 5px;
+  box-sizing: border-box;
+}

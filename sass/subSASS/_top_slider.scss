@@ -1,0 +1,30 @@
+/* Top slider area */
+.slideitem {
+  position: relative;
+  width: 100%;
+  height: 321px;
+}
+
+.slideimage {
+  z-index: -1;
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.slidecontent {
+  z-index: 1;
+  position: absolute;
+  top: 40px;
+  left: 50px;
+  max-width: 450px;
+  color: #fff;
+}
+
+.sTitle {}
+
+.subTitle {}
+
+.sContent {}
